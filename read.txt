@@ -1,6 +1,15 @@
-"git 命令我会吗"？
+//git介绍
+Git is a distributed versiom control system;
+Git is a free software distributed under the GPL;/仓库命令
+
+//命令
 mkdir 仓库名;
 cd 仓库名 //转到仓库;
 pwd //显示当前命令；
-Git is a distributed versiom control system;
-Git is a free software distributed under the GPL;
+
+//管理命令：
+git add 文件名.格式 （可跟多个，空格隔开即可）
+git commit -m "写快照的主要内容"
+在git中commit相当于一个快照；
+git log 查看提交记录；
+

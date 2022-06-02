@@ -2,4 +2,5 @@
 mkdir 仓库名;
 cd 仓库名 //转到仓库;
 pwd //显示当前命令；
-
+Git is a distributed versiom control system;
+Git is a free software distributed under the GPL;
